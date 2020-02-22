@@ -1,0 +1,8 @@
+**/*.swp
+dist
+dist-newstyle
+.stack-work
+**/TAGS
+**/#*#
+**/*~
+cabal.project.local*
