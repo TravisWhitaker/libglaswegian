@@ -27,6 +27,7 @@ foreign-library glaswegian
                        cbits/ghc_cleanup.c
   include-dirs:        include
   install-includes:    glaswegian.h
+                       glaswegian++.h
   ghc-options:         -O2
                        -threaded
                        -Wall
